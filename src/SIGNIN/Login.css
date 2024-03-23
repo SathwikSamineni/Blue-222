@@ -185,9 +185,6 @@ input[type="password" i] {
     line-height: normal;
     box-sizing: border-box;
     padding: 0;
-}
-
-input[type="checkbox" i] {
     background-color: initial;
     cursor: default;
     appearance: auto;
@@ -328,12 +325,6 @@ hr {
     overflow: hidden;
 }
 
-b {
-    font-weight: bold;
-    font-color: #000;
-}
-
-
 @media (min-width: 768px) {
     #login-container {
         width: 450px;
@@ -352,5 +343,4 @@ b {
     margin: 0 auto;
     text-align: center;
 }
-
 
